@@ -1,0 +1,33 @@
+#start
+{
+    height: 30px;
+}
+#hii
+{
+  background-color: white;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+body
+{
+  background-color: rgb(151, 144, 144);
+}
+img
+{
+    box-shadow: 0 6px 8px 0 rgb(201, 198, 198);
+    width: 500px;
+}
+img:hover
+{
+    border-radius: 140px;
+    
+}
+#ok{
+  background-color: white;
+  position: fixed;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+}
